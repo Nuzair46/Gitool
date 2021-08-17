@@ -1,4 +1,4 @@
-# GitTool  
+# Gitool  
 
 A script to easily push and pull github repo's without having to input access tokens all the time.
 
