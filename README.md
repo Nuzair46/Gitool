@@ -12,7 +12,7 @@ A script to easily push and pull github repo's without having to input access to
 ### To Run
 
 * Initial Setup:
-    * Run: `gitool adduser [username] [your_personal_access_token]
+    * Run: `gitool adduser [username] [your_personal_access_token]`
 
 * Push:
     * `gitool push [username]`
