@@ -1,6 +1,6 @@
 #!/bin/sh
 mkdir -p ~/bin/gitool
-chmod 755 gitool.py
-cp gitool.py ~/bin/gitool
+chmod +x gitool.py
+cp gitool.py gitool
+cp gitool ~/bin/gitool
 cp data.json ~/bin/gitool
-export PATH=$PATH":$HOME/bin"
